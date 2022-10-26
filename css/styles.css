@@ -409,6 +409,7 @@ img {
 
 .footer-container {
   display: flex;
+  align-items: baseline;
 }
 .footer-logo-address {
   margin-right: 70px;
@@ -454,10 +455,6 @@ img {
 
 .address .item:not(:last-child) {
   margin-bottom: 9px;
-}
-
-.footer-socials {
-  padding-top: 12px;
 }
 
 .footer-socials > .title {
